@@ -69,19 +69,3 @@ Follow these steps to get the application up and running:
      ```
 
 5. **Access the Application:** Open your web browser and go to `http://localhost:3000` to access the Student Association Web Application.
-
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to the project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries, please contact us at `your.email@example.com`.
-
----
-
-Thank you for using the Student Association Web Application. We hope you find it useful and enjoy your experience!
