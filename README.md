@@ -16,8 +16,8 @@ Welcome to the Student Association Web Application! This is a full-stack web app
 
 Before you begin, ensure you have the following prerequisites installed:
 
-- Node.js (version X.X.X)
-- MongoDB (version X.X.X)
+- Node.js
+- MongoDB
 
 ## Getting Started
 
